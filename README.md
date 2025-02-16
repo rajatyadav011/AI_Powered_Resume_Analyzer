@@ -3,7 +3,7 @@
 ![AI-Resume-Analyzer](https://socialify.git.ci/rajatyadav011/AI-Resume-Analyzer/image?description=1&descriptionEditable=Final%20Year%20Project%20at%20Indira%20College%20of%20Commerce%20and%20Science%20(2024%20-%2025)&font=Raleway&language=1&pattern=Plus&theme=Light)
 
 <div align="center">
-  <h1>🌴 AI RESUME ANALYZER 🌴</h1>
+  <h1>🌴 AI POWERED RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions, and Recommendations</p>
   
   <!-- Badges -->
